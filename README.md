@@ -1,4 +1,4 @@
-<h1>Olá! 👋🏻</h1>
+<h2>Olá! 👋🏻</h2>
 
 <div align="center">
   <a href="https://github.com./isadorabittinelli">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadorabittinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
-<h1>Sobre mim</h1>
+<h2>Sobre mim</h2>
 
 📖 <b>Cursando</b> Análise e Desenvolvimento de Sistemas
 <br><br>
