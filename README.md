@@ -12,5 +12,5 @@
 <br><br>
 🌱 <b>Atualmente aprimorando minhas habilidades em</b> HTML, CSS e Python
 <br><br>
-👩🏻‍💻 <b>Todos os meus projetos estão aqui</b> <a href="https://github.com/isadorabittinelli?tab=stars">Portfólio GitHub<a/>
+👩🏻‍💻 <b>Todos os meus projetos estão </b> <a href="https://github.com/isadorabittinelli?tab=stars">aqui<a/>
 <br><br>
