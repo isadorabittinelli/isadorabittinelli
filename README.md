@@ -1,7 +1,7 @@
 <h1>Olá!</h1>
-
-👩🏻‍💻 Cursando: Análise e Desenvolvimento de Sistemas
-🌱 Aprimorando minhas habilidades em: HTML, CSS e Python
-📖 Projetos: <link> 
+<hr>
+👩🏻‍💻 <n>Cursando:</n> Análise e Desenvolvimento de Sistemas<hr>
+🌱 <n>Aprimorando minhas habilidades em:</n> HTML, CSS e Python<hr>
+📖 <n>>Projetos:</n> <a>https://github.com/isadorabittinelli?tab=stars</a>
 💬 
 📫 Onde me encontrar: 
