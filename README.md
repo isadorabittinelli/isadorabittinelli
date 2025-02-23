@@ -3,7 +3,8 @@
 <div align="center">
   <a href="https://github.com./isadorabittinelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorabittinelli&layout=compact&langs_count=16&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadorabittinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadorabittinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isadorabittinelli&theme=dracula&hide_border=true"/>
 </div>
     
 <h2>Sobre mim</h2>
