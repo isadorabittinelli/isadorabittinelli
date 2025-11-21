@@ -9,9 +9,7 @@
     
 <h2>Sobre mim</h2>
 
-📖 Cursando Análise e Desenvolvimento de Sistemas (migrando das Ciências Biológicas)
-<br><br>
-🌱 Atualmente aprimorando minhas habilidades em HTML, CSS e Python
+📖 Cursando Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos em UX Design
 <br><br>
 👩🏻‍💻 Todos os meus projetos estão </b> <a href="https://github.com/isadorabittinelli?tab=stars">aqui<a/>
 <br><br>
