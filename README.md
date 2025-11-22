@@ -13,5 +13,5 @@
 <br><br>
 👩🏻‍💻 Todos os meus projetos estão </b> <a href="https://github.com/isadorabittinelli?tab=stars">aqui<a/>
 <br><br>
-👩 Veja meu portfólio de UXUI Designer </b> <a href="https://sites.google.com/view/isadorabittinelli/">aqui<a/>
+🔖 Veja meu portfólio de UXUI Designer </b> <a href="https://sites.google.com/view/isadorabittinelli/">aqui<a/>
 <br><br>
